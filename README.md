@@ -55,7 +55,8 @@ Open Circuit Test and load Circuit Test:
 ![IMG-20250916-WA0009](https://github.com/user-attachments/assets/4e083d27-9222-4c6a-9697-92d55146d50b)
 
 <img width="1048" height="810" alt="image" src="https://github.com/user-attachments/assets/731b5bd6-ae1c-4b61-bdfd-6e3263288811" />
-![WhatsApp Image 2025-09-16 at 14 10 56_6340c1e4](https://github.com/user-attachments/assets/13ef2171-5095-40d4-a841-16541adb696d)
+![WhatsApp Image 2025-09-16 at 14 10 56_6340c1e4](https://github.com/user-attachments/assets/4be49740-769f-4e17-b81e-0399fb45a572)
+
 
 
 Result:
